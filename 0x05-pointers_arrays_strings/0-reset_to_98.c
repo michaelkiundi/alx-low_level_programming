@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * swap_int -> given two integers swap the values they are holdin
  * @a: parameter 1
